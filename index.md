@@ -26,6 +26,6 @@ Below is a list of publications that include journal or magazine articles as wel
 * E. Lezar and D. B. Davidson, “GPU-based Arnoldi factorisation for accelerating finite element eigenanalysis,” in Electromagnetics in advanced applications, 2009. iceaa ’09. international conference on, 2009, pp. 380-383. [doi:10.1109/ICEAA.2009.5297413](https://dx.doi.org/10.1109/ICEAA.2009.5297413)
 * E. Lezar and D. B. Davidson, “Implementation of arbitrarily high order hierarchical vector basis functions for the finite element analysis of a rectangular waveguide,” in 8th ieee africon conference, 2007. [doi:10.1109/AFRCON.2007.4401502](https://dx.doi.org/10.1109/AFRCON.2007.4401502)
 
-## Other
+### Other
 * E. Lezar, “GPU acceleration of matrix-based methods in computational electromagnetics,” PhD Thesis, 2011.
 * E. Lezar, “hp-adaptation for the FEM analysis of waveguides,” Master Thesis, 2008.
