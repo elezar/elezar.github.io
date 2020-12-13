@@ -21,6 +21,17 @@ Before joining Mesosphere, I spent some time with Zalando SE as a research engin
 I also worked as a developer on a commercial electromagnetic modelling and simulation software package at Altair Engineering (previously EM Software & Systems).
 -->
 
+<!--
+ am part of the Statistical Learning team at Zalando SE. Here, I add GPU computing expertise to a team that investigates state of the art machine learning solutions to problems and challenges faced by Europe’s number one fashion e-tailer.
+
+Previously, I was a senior developer for electromagnetic solvers at Altair Engineering (following a merger with EM Software & Systems). This entails working on various aspects of the computational kernel of the electromagnetic modelling and simulation package FEKO, now part of the HyperWorks suite of computer aided engineering software.
+
+Prior to that, I was a member of the computational electromagnetics group (CEMAGG) at the electrical and electronic engineering deparment of Stellenbosch University from January 2006 to July 2011. As part of the group, I undertook research in the field of computational electromagnetics (CEM) as well as general purpose GPU computing.
+
+My PhD dissertation considered the application of GPU acceleration to matrix-based methods in CEM, and more specifically considered the use of CUDA from NVIDIA to improve the performance of the finite element method (FEM) and the method of moments (MoM) — also called the boundary element method. In the case of the MoM, the implementations successfully overcome the limitations imposed by the amount of memory available on a GPU.
+-->
+
+
 ## Publications
 
 Below is a list of publications that include journal or magazine articles as well as papers presented at conferences. Although links to the papers are provided where applicable, please feel free to contact me with any questions or to request pre-prints of the papers.
