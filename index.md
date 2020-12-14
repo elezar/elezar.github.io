@@ -3,7 +3,7 @@
 
 ## About me
 
-I am an engineer with more than a decade of commercial experience covering a range of programming languages, roles, and team configurations, as well as a successful academic background. In all this I have shown myself to be adaptable – both socially and technically – and able to master a number of initially foreign concepts. I have the drive to see complex projects through to fruition, and am continuously seeking to expand my skill-set.
+I am an engineer with commercial experience covering a range of programming languages, roles, and team configurations, as well as a successful academic background. In all this I have shown myself to be adaptable – both socially and technically – and able to master a number of initially foreign concepts. I have the drive to see complex projects through to fruition, and am continuously seeking to expand my skill-set.
 
 <!--
 ### Amazon Web Services / Amazon Inc
